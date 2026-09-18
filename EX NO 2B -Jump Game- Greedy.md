@@ -1,8 +1,6 @@
 # EX 2B Jump Game using Greedy Algorithm.
 
-### Developed By: PRIYADHARSHINI S.S
-
-### Register Number: 212223040156
+## DATE: 8.9.26
 
 ## AIM:
 
@@ -24,7 +22,10 @@ If it is not possible to reach the end, return -1.
 
 ## Program:
 
-```java
+```
+DEVELOPED BY : PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
+
 import java.util.*;
 
 public class JumpGame {
