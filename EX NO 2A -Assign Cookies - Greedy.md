@@ -1,8 +1,6 @@
 # EX 2A Assign Cookies using Greedy Algorithm.
 
-### Developed By: PRIYADHARSHINI S.S
-
-### Register Number: 212223040156
+## DATE:8.9.26
 
 ## AIM:
 
@@ -20,8 +18,12 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 5. Return the total number of children successfully matched with cookies.
 
 ## Program:
+```
 
-```java
+DEVELOPED BY: PRIYADHARSHINI S.S
+REGISTER NO: 212223040156
+
+
 import java.util.*;
 
 public class AssignCookies {
